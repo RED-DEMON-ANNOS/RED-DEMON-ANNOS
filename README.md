@@ -15,11 +15,11 @@
 
 - ⚡ Fun fact **I think I am Demon**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/mr.annos007" target="blank"><img align="center" src="https://raw.githubusercontent.com/RED-DEMON-ANNOS/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mr.annos007" height="30" width="40" /></a>
-<a href="https://instagram.com/annos_007" target="blank"><img align="center" src="https://raw.githubusercontent.com/RED-DEMON-ANNOS/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="annos_007" height="30" width="40" /></a>
-</p>
+#### Contact With Me
+
+[![](https://img.shields.io/badge/Github-red?logo=Github&logoColor=red&labelColor=black)](https://github.com/RED-DEMON-ANNOS) <br>
+[![](https://img.shields.io/badge/Facebook-red?logo=Facebook&logoColor=red&labelColor=black)](https://www.facebook.com/MR.ANNOS007) <br>
+[![](https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=red&labelColor=black)](https://www.instagram.com/annos_007) <br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
